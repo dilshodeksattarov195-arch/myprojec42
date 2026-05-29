@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpelete",
+        "uuid": 358554,
+        "checksum": "ufv4n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
